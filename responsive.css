@@ -385,6 +385,11 @@
 }
 
 @media screen and (max-width: 426px) {
+  * {
+    margin: 0;
+    padding: 0:
+  }
+  
   #closebtn i {
     font-size: 50px;
   }
